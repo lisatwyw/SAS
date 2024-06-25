@@ -1,5 +1,9 @@
 
-From [SAS Proceedings paper#3117 in 2019](https://support.sas.com/resources/papers/proceedings19/3117-2019.pdf)
+
+## Resources
+
+- [SAS to Python Kaggle](https://www.kaggle.com/code/faizulislam19095/sas-tutorial-a-guide-to-start-learning-sas)
+- From [SAS Proceedings paper#3117 in 2019](https://support.sas.com/resources/papers/proceedings19/3117-2019.pdf)
 ```
 data claims_flag;
  set claims_orig;
@@ -28,5 +32,8 @@ data claims_flag;
  end;
  end;
  run;
-
 ```
+
+
+## Possible Tasks:
+- Article on [BCC19C](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10914982/)
